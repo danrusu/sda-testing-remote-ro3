@@ -62,7 +62,7 @@ https://cucumber.io/docs/gherkin/
 
 - [Chrome Driver](https://chromedriver.chromium.org/downloads)
 
-- [CSS Selectors](https://www.w3schools.com/cssref/css_selectors.asp
+- [CSS Selectors](https://www.w3schools.com/cssref/css_selectors.asp)
 
 - [XPath selectors](https://www.w3schools.com/xml/xpath_syntax.asp)
 

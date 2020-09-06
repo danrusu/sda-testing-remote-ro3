@@ -68,3 +68,38 @@ https://cucumber.io/docs/gherkin/
 
 - [XPath selectors](https://www.w3schools.com/xml/xpath_syntax.asp)
 
+### Tips & Whats Next (IMHO)
+
+- YOU CANNOT REMEMBER ALL - keep a HISTORY of everything you learn / experience; it should be searchable
+
+- get strong testing theoretical testing skills - mandatory for interviews
+
+- get good DevTools and Javascript knowledge
+
+- get decent Java skills
+
+    - Maven basic skills
+
+    - TestNG
+
+    - Selenium (UI testing)
+ 
+    - RestAssured (API testing)
+
+- follow [ethics](https://medium.com/@MarkManson/the-one-rule-for-life-a43a803b61fd)
+
+- getting skills in non-functional areas is a big plus - Performance / Security testing
+
+- start interviewing as soon as possible
+
+  - it will show the arreas where you need to improve
+
+  - you will gain confidence by experience
+
+  - do not compare yourself with others
+
+- TREAT FAILURE AS AN OPPORTUNITY TO IMPROVE
+
+
+#### A CAREER IS MORE LIKE A MARATHON THAN A SPRINT. IT DOES NOT MATTER HOW SLOW YOU GO, AS LONG AS YOU DO NOT STOP.
+

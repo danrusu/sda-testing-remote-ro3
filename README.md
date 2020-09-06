@@ -58,6 +58,8 @@ https://cucumber.io/docs/gherkin/
 
 ### Java + Selenium 
 
+- [IntelliJ Cheat Sheet](./intellij_cheat_sheet.pdf)
+
 - [Download](https://www.selenium.dev/downloads/)
 
 - [Chrome Driver](https://chromedriver.chromium.org/downloads)
